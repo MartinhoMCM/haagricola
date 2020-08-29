@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034941960846",
+    "firebase_url": "https://haagricola-c73eb.firebaseio.com",
+    "project_id": "haagricola-c73eb",
+    "storage_bucket": "haagricola-c73eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034941960846:android:c800f6cb7c8ecbb52aefdf",
+        "android_client_info": {
+          "package_name": "com.bluetech.ha_angricola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034941960846-pc83bthtqj3u0oqlpt4v4g9k1rseiiq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluetech.ha_angricola",
+            "certificate_hash": "65cf87e58cd9c533ded7366f8e4657f784ceb31a"
+          }
+        },
+        {
+          "client_id": "1034941960846-ptu64dgfbapsk5d1bkap3f9ucdqo0kkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGy-5SnW2wrcAmCYMdBcMZqswTsjC8TBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034941960846-ptu64dgfbapsk5d1bkap3f9ucdqo0kkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
